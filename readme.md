@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitNeu256&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitNeu256&langs_count=8&layout=compact">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitNeu256&theme=prussian">
+</p>
+  
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitNeu256&theme=prussian">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitNeu256&theme=prussian">
 </p>
 
